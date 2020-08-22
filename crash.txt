@@ -1,0 +1,55 @@
+[Window Title]
+Error GTA5.exe!sub_14065F038 (0x20)
+
+[Main Instruction]
+GTA5.exe!sub_14065F038 (0x20)
+
+[Content]
+An error at GTA5.exe!sub_14065F038 (0x20) caused FiveM to stop working. A crash report is being uploaded to the FiveM developers.
+
+Legacy crash hash: moon-island-uniform
+Stack trace:
+  GTA5.exe!sub_14065F038 (0x20)
+  GTA5.exe!sub_14067853C (0x7c)
+  GTA5.exe!sub_141595570 (0x4b)
+  GTA5.exe!sub_141596290 (0x9c)
+  GTA5.exe!walkScene (0x58)
+  GTA5.exe!sub_1406CA840 (0x31b)
+  GTA5.exe!sub_140A9F8C4 (0x1b8)
+
+
+[^] Hide details  [Save information] [Close]
+
+[Expanded Information]
+Crash signature: fivem.exe+65F058
+Report ID: si-bbce2a6f72714913994454dd0e947e35
+You can press Ctrl-C to copy this message and paste it elsewhere.
+
+
+
+[Window Title]
+Error GTA5.exe!sub_1415C3BC4 (0xf)
+
+[Main Instruction]
+GTA5.exe!sub_1415C3BC4 (0xf)
+
+[Content]
+An error at GTA5.exe!sub_1415C3BC4 (0xf) caused FiveM to stop working. A crash report is being uploaded to the FiveM developers.
+
+Legacy crash hash: helium-thirteen-idaho
+Stack trace:
+  GTA5.exe!sub_1415C3BC4 (0xf)
+  GTA5.exe!sub_140F4DC48 (0x1e)
+  GTA5.exe!sub_140FD09F4 (0x15)
+  GTA5.exe!sub_14090B4B4 (0x27)
+  GTA5.exe!sub_1415F6730 (0x9c)
+  GTA5.exe!ProcessAfterCameraUpdate::Update (0xb1)
+  gta-core-five.dll!rage::RunEntries (0x1a1) (GameSkeleton.cpp:181)
+
+
+[^] Hide details  [Save information] [Close]
+
+[Expanded Information]
+Crash signature: fivem.exe+15C3BD3
+Report ID: si-8dfb157286164bd8a045cb17568a9839
+You can press Ctrl-C to copy this message and paste it elsewhere.
