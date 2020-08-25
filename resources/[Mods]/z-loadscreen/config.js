@@ -2,7 +2,7 @@
 var config = {
     /* In milliseconds */
     "transitionInterval": 1250,
-    "imgInterval": 6000,
+    "imgInterval": 10000,
     "music": true,
     /* Insert the Youtube Video ID below */
     "videoID": "jo4-FhqkNwQ",
